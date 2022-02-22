@@ -9,8 +9,8 @@
             "webOpen":false,
             "click":true,
             "webPlus":{
-                "search_url":"https://www.jiujiukanpian.com/search?wd={kw}",
-                "nav_url":"https://www.jiujiukanpian.com/type/navCate/navPage.html",
+                "search_url":"http://979797.wang",
+                "nav_url":"http://979797.wang",
                 "web_name":"97影视",
                 "search":true,
                 "navHtml":{
